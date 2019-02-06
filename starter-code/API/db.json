@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Blaster Pistol",
+      "cartoon": true
+    },
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "Homer Simpson",
+      "occupation": "Nuclear safety Inspector",
+      "weapon": "Donut",
+      "cartoon": true,
+      "id": 4
+    },
+    {
+      "name": "Hellooooooooo",
+      "occupation": "It's me",
+      "weapon": "I was wondering if",
+      "cartoon": false,
+      "id": 5
+    },
+    {
+      "name": "Hola",
+      "occupation": "dgdafgsg",
+      "weapon": "EFSDFSF",
+      "cartoon": false,
+      "id": 6
+    },
+    {
+      "cartoon": false,
+      "name": "Axel",
+      "occupation": "TA",
+      "weapon": "linux",
+      "id": 7
+    },
+    {
+      "cartoon": true,
+      "name": "Laura",
+      "occupation": "Senior Wevdeveloper",
+      "weapon": "Maxbook",
+      "id": 8
+    },
+    {
+      "cartoon": false,
+      "name": "Moritz",
+      "occupation": "webdeve",
+      "id": 9
+    }
+  ]
+}
